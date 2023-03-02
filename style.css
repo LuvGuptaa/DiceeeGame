@@ -1,0 +1,26 @@
+body{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    background-color: gray;
+    font-family: monospace;
+}
+h1
+{
+    text-align: center;
+    font-size: 5rem;
+}
+.play-area{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+.play-area h2{
+    font-size: 2rem;
+    text-align: center;
+}
+.foot{
+    text-align: center;
+    margin-top: 5rem;
+    font-size: 1.25rem;
+}
